@@ -1,0 +1,2 @@
+# AUDIT-OF-TWITTER-ACCOUNT-Who-is-handling-Twitter-Accounts-Human-or-Bot
+Implemented the machine learning algorithms like Multinomial Naive Bayes, Random Forest, Logistic Regression and Decision Tree that helps to identify whether the given twitter account belongs to twitter bot or human being.  This is done by gathering  few bots and non bots accounts to train the model. Then, given a new account this particular trained model  predicts whether that account is a bot or not.
